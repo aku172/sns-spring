@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+cloud:  aws:    credentials:      access-key: AKIARPNLN6EK6TOC5BNJ      secret-key: cDs97sD0w/iRNT1ulhOnBvCf1UeNCykgB3fl+KDW    region:      static: us-east-1    stack:      auto: false
+
+application:
+  sns:
+    topic-name: TestTopic
+    topic-arn: DummyArn
+
+

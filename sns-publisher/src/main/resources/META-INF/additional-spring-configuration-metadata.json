@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "application.sns.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'application.sns.topic'"
+  },
+  {
+    "name": "application.sns.topic-name",
+    "type": "java.lang.String",
+    "description": "A description for 'application.sns.topic-name'"
+  },
+  {
+    "name": "application.sns.topic-arn",
+    "type": "java.lang.String",
+    "description": "A description for 'application.sns.topic-arn'"
+  }
+]}
